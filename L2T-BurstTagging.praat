@@ -1,8 +1,8 @@
 # Include the auxiliary code files.
-include ../L2T-Utilities/L2T-Utilities.praat
-include ../L2T-StartupForm/L2T-StartupForm.praat
-include ../L2T-Audio/L2T-Audio.praat
-include ../L2T-WordList/L2T-WordList.praat
+include ../Utilities/L2T-Utilities.praat
+include ../StartupForm/L2T-StartupForm.praat
+include ../Audio/L2T-Audio.praat
+include ../WordList/L2T-WordList.praat
 include ../L2T-SegmentationTextGrid/L2T-SegmentationTextGrid.praat
 include ../BurstLog/L2T-BurstLog.praat
 include ../BurstTextGrid/L2T-BurstTextGrid.praat
